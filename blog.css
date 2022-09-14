@@ -13,7 +13,7 @@
 
 body {
     font-size: 15px;
-    font-family: 'Poppins', sans-serif;
+    font-family: "Zilla Slab", serif;
     background-image: url("./bg.png");
     background-size: cover;
     background-position: left top;
@@ -73,7 +73,7 @@ img {
 
 @media (max-width: 450px) {
     .box {
-        height: 200px;
+        height: 400px;
     }
 }
 
